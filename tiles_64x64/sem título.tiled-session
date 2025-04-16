@@ -1,0 +1,109 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "sem título.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Assets": {
+            "scaleInEditor": 1
+        },
+        "primeiro.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1824.6666666666665,
+                "y": 1128.6666666666665
+            }
+        },
+        "primeiro.tmx#Bridge_All": {
+            "scaleInDock": 1
+        },
+        "primeiro.tmx#Tilemap_Elevation": {
+            "scaleInDock": 1
+        },
+        "primeiro.tmx#Tilemap_Flat": {
+            "scaleInDock": 1
+        },
+        "sem título.tmx": {
+            "expandedGroupLayers": [
+                5
+            ],
+            "expandedObjectLayers": [
+                11
+            ],
+            "scale": 1.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 462.33333333333337,
+                "y": 324.66666666666663
+            }
+        },
+        "sem título.tmx#Assets": {
+            "scaleInDock": 1.5
+        },
+        "sem título.tmx#Background_2": {
+            "scaleInDock": 0.5
+        },
+        "sem título.tmx#Castle": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "sem título2.tmj": {
+            "scale": 0.6125520833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.77544426494353,
+                "y": 399.96598928662524
+            }
+        },
+        "sem título2.tmj#Assets": {
+            "scaleInDock": 1
+        },
+        "sem título2.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 911,
+                "y": 800
+            }
+        },
+        "sem título2.tmx#Assets": {
+            "scaleInDock": 2
+        }
+    },
+    "last.exportedFilePath": "C:/Users/rafin/OneDrive/Área de Trabalho/Exercicios/Lab jogos/tiles_64x64",
+    "last.imagePath": "C:/Users/rafin/OneDrive/Área de Trabalho/Exercicios/Lab jogos/tiles_64x64/Tiles/Assets",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "Arquivos de mapa JSON (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 80,
+    "openFiles": [
+        "sem título.tmx"
+    ],
+    "project": "sem título.tiled-project",
+    "recentFiles": [
+        "sem título.tmx",
+        "sem título2.tmx",
+        "sem título2.tmj",
+        "primeiro.tmx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

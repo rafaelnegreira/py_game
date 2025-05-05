@@ -12,16 +12,16 @@ from PPlay.sprite import *
 from PPlay.window import *
 
 
-janela = Window(1000, 480)
+janela = Window(800, 400)
 teclado = Keyboard()
 
 # Carrega colisores do JSON exportado do Tiled
-with open("tiles_64x64/sem título.json") as f:
+with open("tiles_64x64/Primeiro_andar_Raízes.json") as f:
     mapa = json.load(f)
 
 colisores = []
 for layer in mapa["layers"]:
-    if layer["type"] == "objectgroup" and layer["name"] == "obj_chao_0":
+    if layer["type"] == "objectgroup" and layer["name"] == "objetos":
         for obj in layer["objects"]:
             bloco = GameImage("bloco_transparente.png")
             bloco.set_position(obj["x"], obj["y"])
@@ -156,11 +156,11 @@ player = Player(
     hp=100
     )
 
-player.position(50, 0)
+player.position(50, 850)
 
 camera = Camera(janela.width, janela.height)
 
-tile1 = GameImage("tiles_64x64\chao.png")
+tile1 = GameImage("tiles_64x64\Primeiro_andar_Raízes.png")
 
 while True:
     janela.set_background_color((0, 0, 0))

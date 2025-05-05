@@ -3,17 +3,42 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "sem título.tmx",
+    "activeFile": "Primeiro_andar_Raízes.tmx",
     "expandedProjectPaths": [
         "."
     ],
     "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 4
         },
         "#Assets": {
             "scaleInEditor": 1
+        },
+        "Primeiro_andar_Raízes.tmx": {
+            "expandedObjectLayers": [
+                3,
+                6
+            ],
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 2299.333333333333,
+                "y": 853.3333333333333
+            }
+        },
+        "Primeiro_andar_Raízes.tmx#Assets": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "Primeiro_andar_Raízes.tmx#Mine": {
+            "scaleInDock": 0.33
+        },
+        "Primeiro_andar_Raízes.tmx#NatureTiles": {
+            "scaleInDock": 1
+        },
+        "Primeiro_andar_Raízes.tmx#tijolos internos": {
+            "scaleInDock": 2
         },
         "primeiro.tmx": {
             "scale": 0.75,
@@ -42,8 +67,8 @@
             "scale": 1.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 462.33333333333337,
-                "y": 324.66666666666663
+                "x": 727.6666666666666,
+                "y": 214.66666666666666
             }
         },
         "sem título.tmx#Assets": {
@@ -84,17 +109,18 @@
     },
     "last.exportedFilePath": "C:/Users/rafin/OneDrive/Área de Trabalho/Exercicios/Lab jogos/tiles_64x64",
     "last.imagePath": "C:/Users/rafin/OneDrive/Área de Trabalho/Exercicios/Lab jogos/tiles_64x64/Tiles/Assets",
-    "map.height": 50,
+    "map.height": 30,
     "map.lastUsedExportFilter": "Arquivos de mapa JSON (*.tmj *.json)",
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 80,
+    "map.width": 160,
     "openFiles": [
-        "sem título.tmx"
+        "Primeiro_andar_Raízes.tmx"
     ],
     "project": "sem título.tiled-project",
     "recentFiles": [
+        "Primeiro_andar_Raízes.tmx",
         "sem título.tmx",
         "sem título2.tmx",
         "sem título2.tmj",
